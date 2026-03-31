@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I’m Miya 🎧ྀི♪⋆.✮
 
-<!--
-**miyalapin/miyalapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing strategist & creative operator with a background in paid media, GTM strategy, and campaign execution for enterprise brands.
 
-Here are some ideas to get you started:
+I specialize in bringing campaigns to life across channels: sequencing brand identity & story with data, systems, and scalable execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ★ What I focus on:
+- Creative campaign execution & storytelling
+- Cross-channel media & brand marketing (social, email, web, content)
+- Project management & production workflows
+- Data-informed creative strategy
+
+
+### ★ What makes me different:
+I build the systems & workflows behind the campaigns, budget pacing tools to performance frameworks — so creative ideas don’t just launch, they scale.
+
+
+### ★ What I’m building:
+- End-to-end campaign playbooks
+- Creative production workflows
+- Marketing analytics & automation tools
+- GTM strategy frameworks
+
+
+### ᯓ★ Selected Work:
+(see repositories below)
+
+---
+
+### ᯓ★ Interests:
+Automation, Music, creator economy, brand storytelling, and building meaningful audience experiences
+
+---
+
+### ᯓ★ Let’s connect:
+- LinkedIn: [www.linkedin.com/in/miya-lapin]
